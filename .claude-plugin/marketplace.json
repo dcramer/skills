@@ -1,0 +1,9 @@
+{
+  "name": "personal-skills",
+  "description": "Personal agent skills collection",
+  "plugins": [
+    {
+      "path": "plugins/personal-skills"
+    }
+  ]
+}
